@@ -2,10 +2,10 @@ import { Component } from '@angular/core';
 import { RouterLink } from '@angular/router';
 
 @Component({
-  selector: 'cvy-main-menu',
+  selector: 'cvy-menu-main',
   imports: [RouterLink],
-  templateUrl: './main-menu.html',
+  templateUrl: './menu-main.html',
 })
-export class MainMenu {
+export class MenuMain {
 
 }
